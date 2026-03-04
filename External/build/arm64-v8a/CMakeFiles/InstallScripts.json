@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Proj/External/build/arm64-v8a/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

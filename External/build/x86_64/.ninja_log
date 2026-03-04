@@ -1,0 +1,27 @@
+# ninja log v7
+184	5042	7928772976530643	CMakeFiles/vextik.dir/src/ui/bar.cpp.o	31595266bfd02662
+63	10645	7929537651057862	CMakeFiles/vextik.dir/src/main.cpp.o	5cb86b56c8a4dd31
+184	11371	7929537652274675	CMakeFiles/vextik.dir/src/ui/config_sys.cpp.o	a1932317f7e3bbe3
+5066	9942	7928773025430349	CMakeFiles/vextik.dir/src/ui/widgets/widgets.cpp.o	47e9e049cfc8e52c
+98	12836	7929537651408267	CMakeFiles/vextik.dir/src/ui/menu.cpp.o	61dc5892f7bbab08
+11844	12091	7928773093137659	CMakeFiles/vextik.dir/src/protect/oxorany.cpp.o	9948e9611094e2e1
+11374	20454	7929537764171954	CMakeFiles/vextik.dir/src/func/skinchanger.cpp.o	e34a671eb2bfc3dd
+12094	24747	7928773095648331	CMakeFiles/vextik.dir/src/protect/security.cpp.o	49dd00e75e8e4d47
+220	16863	7929537652641910	CMakeFiles/vextik.dir/src/func/visuals.cpp.o	1e6e0a0768df4ffb
+10646	23575	7929537756879434	CMakeFiles/vextik.dir/src/func/aimbot.cpp.o	3324f12e1d1b565e
+19688	27358	7928773171613119	CMakeFiles/vextik.dir/includes/draw/Android_draw/draw.cpp.o	79fb74895d1580fb
+24752	29051	7928773222204029	CMakeFiles/vextik.dir/includes/draw/Android_touch/Touch.cpp.o	dc09464db18f4ce3
+27401	31124	7928773249081175	CMakeFiles/vextik.dir/includes/draw/ImGui/imgui_tables.cpp.o	2390a8327b7f1193
+31134	31581	7928773286115547	CMakeFiles/vextik.dir/includes/draw/ImGui/backends/imgui_impl_android.cpp.o	6c1393fdfa92ec96
+31587	31988	7928773290569121	CMakeFiles/vextik.dir/includes/draw/ImGui/backends/imgui_impl_opengl3.cpp.o	8b75ae2291edf1ca
+27111	32425	7928773246626471	CMakeFiles/vextik.dir/includes/draw/ImGui/imgui_draw.cpp.o	86aabfd202853b5d
+25582	33845	7928773230512459	CMakeFiles/vextik.dir/includes/draw/ImGui/imgui.cpp.o	a49768813795aada
+29085	34462	7928773266370317	CMakeFiles/vextik.dir/includes/draw/ImGui/imgui_widgets.cpp.o	6ca4afb896578b73
+23576	35553	7929537886182764	vextik.sh	f186ca5f72dc4d64
+198	21767	7932633326633737	CMakeFiles/vextik.dir/src/ui/config_sys.cpp.o	a1932317f7e3bbe3
+179	25006	7932633326439995	CMakeFiles/vextik.dir/src/main.cpp.o	5cb86b56c8a4dd31
+189	28318	7932633326540327	CMakeFiles/vextik.dir/src/ui/menu.cpp.o	61dc5892f7bbab08
+208	31885	7932633326736915	CMakeFiles/vextik.dir/src/func/visuals.cpp.o	1e6e0a0768df4ffb
+25006	35906	7932633574715302	CMakeFiles/vextik.dir/src/func/skinchanger.cpp.o	e34a671eb2bfc3dd
+21769	38538	7932633542339623	CMakeFiles/vextik.dir/src/func/aimbot.cpp.o	3324f12e1d1b565e
+38539	55669	7932633710033700	vextik.sh	f186ca5f72dc4d64
